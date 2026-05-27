@@ -1,11 +1,10 @@
 <!-- Info--> 
-/// Readme ///
+// Readme //
 <!--Credits--> 
-/// P2pserver /// 
+// P2pserver // // 3 Files //
 <!--Description -->
-/// 3 Files /// 
- /// Live demo ////
+ // Live demo //
 <!--This is a comment --> 
 <!--match with a tutor --> 
-/// Test run ///
+// Test run //
 
