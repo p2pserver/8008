@@ -1,22 +1,18 @@
 <!-- Info--> 
-***Project Title****
+***Project README****
 <!----> 
-P2pserver 
+p2pServer 
 <!--Installation--> 
 ***Installation Instructions***
-<!----> 
-OS Requirements: Linux, MacOS, Windows 
 <!-->
-Browser Requirements: Chrome, IE 8 
+Browser Requirements: Chrome, Firefox 
+<!--> 
+IE 8 or Later, Safari 
 <!--Description -->
 ****DESCRIPTION***
 <!-->
-Fast Growing Learning Platform 
-<!-->
 Rated E for Everyone 
 <!--> 
-Live Demo 
-Free to try 
 <!--This is a comment --> 
 <!--match with a tutor --> 
 
