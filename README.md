@@ -5,9 +5,7 @@ p2pServer
 <!--Installation--> 
 ***Installation Instructions***
 <!-->
-Browser Requirements: Chrome, Firefox 
-<!--> 
-IE 8+
+Browser Requirements: Chrome, Firefox, IE 8+
 <!--Description -->
 ****DESCRIPTION***
 <!-->
