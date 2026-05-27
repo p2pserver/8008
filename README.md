@@ -7,7 +7,7 @@ p2pServer
 <!-->
 Browser Requirements: Chrome, Firefox 
 <!--> 
-IE 8 or Later, Safari 
+IE 8+
 <!--Description -->
 ****DESCRIPTION***
 <!-->
